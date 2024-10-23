@@ -1,0 +1,21 @@
+body{
+    background-image: url("https://i.etsystatic.com/27490263/r/il/659e83/3198041244/il_fullxfull.3198041244_no2a.jpg");
+    background-size: cover;
+    font-weight: bold;
+    text-align: center;
+}
+h1{
+    margin-top: 10px;
+    margin-top: 10px;
+}
+h2{
+    font-size: 50px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+button{
+    border: none darkgreen;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
