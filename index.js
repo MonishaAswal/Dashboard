@@ -14,7 +14,7 @@ function closeSidebar(){
     }
 }
 
-/* BAR CHARTS*/
+
 var barChartOptions = {
     series: [{
     data: [400, 430, 448, 470, 540, 580, 690, 1100, 1200, 1380]
@@ -44,7 +44,7 @@ var barChartOptions = {
   barChart.render();
 
 
- /*AREA CHARTS*/
+ 
   var areaChartOptions = {
     series: [{
     name: 'TEAM A',
